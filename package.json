@@ -1,0 +1,16 @@
+{
+  "name": "hc",
+  "version": "0.0.1",
+  "description": "tiny Http Client",
+  "main": "hc",
+  "scripts": {},
+  "bin" : {
+    "hc" :  "./hc.js"
+  },
+  "author": "Mattia Afieri",
+  "license": "MIT",
+  "dependencies": {
+    "caporal": "^0.8.0",
+    "superagent": "^3.8.1"
+  }
+}
